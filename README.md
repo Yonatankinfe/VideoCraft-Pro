@@ -36,7 +36,7 @@ Creates polished videos in 4 stages:
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourusername/VideoCraft-Pro.git
+git clone https://github.com/Yonatankinfe/VideoCraft-Pro.git
 cd VideoCraft-Pro
 pip install -r requirements.txt
 sudo apt-get install ffmpeg  # Required for audio mixing
